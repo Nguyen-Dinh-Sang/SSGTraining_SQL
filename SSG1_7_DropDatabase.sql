@@ -1,0 +1,5 @@
+USE master
+GO
+
+DROP DATABASE SSG1_7
+GO
